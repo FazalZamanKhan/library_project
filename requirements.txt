@@ -1,0 +1,4 @@
+# Required packages for PDF & Excel Search Tool
+pandas>=1.3.0
+openpyxl>=3.0.0
+pdfplumber>=0.6.0
